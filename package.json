@@ -1,0 +1,14 @@
+{
+  "name": "spa-universe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gelzieny/spa-universe.git",
+  "author": "Gelzieny R. Martins <gelzieny@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
